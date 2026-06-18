@@ -56,21 +56,7 @@ Reliability (DNFs vs finishers) significantly impacts team outcomes
 
 These insights demonstrate the importance of combining raw pace with consistency and race execution — a key principle in modern motorsport engineering.
 
-📁 Project Structure
-F1-Lap-Time-Analysis/
-│
-├── data/
-│   └── BarcelonaGP_laps.csv
-│
-├── scripts/
-│   └── analysis.m
-│
-├── outputs/
-│   ├── lap_time_graph.png
-│   ├── position_change_bar.png
-│   └── race_classification.png
-│
-└── README.md
+
 🚀 Example Outputs
 
 The project generates:
